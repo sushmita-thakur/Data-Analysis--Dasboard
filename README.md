@@ -14,4 +14,5 @@ The Vrinda store wants to create an annual sales report for 2022 . so that , the
 - Relation between age and gender based on number of orders.
 - Which channel is contributing maximum to the sales ?
 - Highest selling category ?
-- Percentage of Total Orders delivered 
+- Percentage of Total Orders delivered
+- Dashboard Interactions <a href="https://github.com/sushmita-thakur/Data-Analysis--Dasboard/blob/main/Screenshot%202026-11-19%20190732.png"> View Dashboard </a>
